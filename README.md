@@ -1,16 +1,4 @@
-# projeto_flutter
+# Sprint2
+Todas as atividades referentes a Sprint 2 estão divididas em branches. Cada branch referencia um módulo da sprint 2 e dentro dessa branch está a atividade do módulo.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Por exemplo, a branch "identificando_programacao_OO" refere-se ao módulo "Identificando programação Orientada a Objetos" e nela está contida a atividade proposta para este módulo. 
